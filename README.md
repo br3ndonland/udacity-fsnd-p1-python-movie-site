@@ -1,16 +1,36 @@
-README
+readme
 =========
 
+<p align="left">
+    <a href="https://www.udacity.com/">
+        <img src="https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg" width="300">
+    </a>
+</p>
 
-## intro
+**Udacity Full Stack Web Developer Nanodegree program**
 
-Film noir is one of my favorite genres. I decided to include two classic noir films, two neo noir films (in the film noir style, set in the noir era, but made more recently), and two future noir films (in the film noir style, set in the future). 
+Part 01. Programming fundamentals and the web
 
-| Movies |||
-|-------|------|-----|
-| *Classic Noir* | Double Indemnity, 1944 | Out of the Past, 1947 |
-| *Neo Noir* | Chinatown, 1974 | Body Heat, 1981|
-| *Future Noir* | Blade Runner, 1982 | The Terminator, 1984 |
+Project 01. Movie trailer website
+
+Brendon Smith | br3ndonland
+
+---
+
+## description
+
+Server-side code written in Python to store a list of my favorite movies, including artwork and trailers, then serve the data to a local webpage with HTML and CSS.
+
+
+## noir
+
+Film noir is one of my favorite genres. I decided to include two classic noir films, two neo noir films (in the film noir style, set in the noir era, but made more recently), and two future noir films (containing elements of film noir, but set in the future). 
+
+| Noir era | Movie 1 | Date | Movie 2 | Date |
+|:-------|:------|:------|:------|:------|
+| *Classic Noir* | Double Indemnity | 1944 | Out of the Past | 1947 |
+| *Neo Noir* | Chinatown | 1974 | Body Heat | 1981|
+| *Future Noir* | Blade Runner | 1982 | The Terminator | 1984 |
 
 
 ## instructions

@@ -1,7 +1,6 @@
 # Udacity full-stack web developer nanodegree
 # 01. Programming fundamentals and the web
-# Lesson 09: Make classes: movie website
-# Movie Website Mini-Project
+# Project 01: Movie trailer website
 
 # import the media file, which contains the class definition
 import media

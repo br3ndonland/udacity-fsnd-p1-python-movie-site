@@ -1,3 +1,7 @@
+# Udacity full-stack web developer nanodegree
+# 01. Programming fundamentals and the web
+# Project 01: Movie trailer website
+
 import webbrowser
 import os
 import re
