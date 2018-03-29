@@ -13,7 +13,7 @@ double_indemnity = media.Movie(
     "1944",
     "An insurance agent tries to game the system and win his love interest.",
     "https://upload.wikimedia.org/wikipedia/en/3/35/Double_indemnity.jpg",
-    "https://www.youtube.com/watch?v=l7AjKUDyrCE")
+    "https://www.youtube.com/watch?v=yKrrAa2o9Eg")
 
 # film noir: out_of_the_past
 out_of_the_past = media.Movie(

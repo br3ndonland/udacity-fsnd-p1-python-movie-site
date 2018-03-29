@@ -1,28 +1,38 @@
-readme
-=========
+# README
 
-<p align="left">
-    <a href="https://www.udacity.com/">
-        <img src="https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg" width="300">
-    </a>
-</p>
+<a href="https://www.udacity.com/">
+	<img src="https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg" width="300">
+</a>
 
 **Udacity Full Stack Web Developer Nanodegree program**
 
-Part 01. Programming fundamentals and the web
+Project 1. Python web server
 
-Project 01. Movie trailer website
+Brendon Smith
 
-Brendon Smith | br3ndonland
+br3ndonland
 
----
+## TOC
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-## description
+- [Description](#description)
+- [Movies on the site](#movies-on-the-site)
+- [Directory contents](#directory-contents)
+- [Instructions](#instructions)
 
-Server-side code written in Python to store a list of my favorite movies, including artwork and trailers, then serve the data to a local webpage with HTML and CSS.
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## noir
+## Description
+
+Python code that stores a list of movies, including artwork and trailers, and serves the data to a local webpage with HTML and CSS.
+
+<img src="fresh-tomatoes-noir-thumbnail-square.png">
+
+
+## Movies on the site
 
 Film noir is one of my favorite genres. I decided to include two classic noir films, two neo noir films (in the film noir style, set in the noir era, but made more recently), and two future noir films (containing elements of film noir, but set in the future). 
 
@@ -33,12 +43,21 @@ Film noir is one of my favorite genres. I decided to include two classic noir fi
 | *Future Noir* | Blade Runner | 1982 | The Terminator | 1984 |
 
 
-## instructions
-
-Required files
+## Directory contents
 
 1. *media.py* contains the class definition used to provide movie information.
 2. *fresh_tomatoes_noir.py* calls a Bootstrap 3 template and contains HTML, CSS, and Python code to build the site
 3. *noir.py* imports the above two files, provides movie information, and calls the `open_movies_page` function to build and open the site.
 
-**Run *noir.py* in a Python 3 IDE, with all three above files in the same directory, to build the site.**
+
+## Instructions
+
+1. On the command line, change into the directory containing the files.
+2. Run *noir.py* to build the site.
+
+```
+$ cd path
+$ python noir.py
+```
+
+[(Back to TOC)](#toc)
